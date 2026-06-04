@@ -95,7 +95,6 @@ Personal portfolio website showcasing projects and skills.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SairajAgawane&layout=compact&theme=tokyonight)
 
 ---
-
 # 🔥 GitHub Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SairajAgawane&theme=tokyonight)
