@@ -98,7 +98,7 @@ Personal portfolio website showcasing projects and skills.
 
 # 🔥 GitHub Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SairajAgawane&theme=tokyonight)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=SairajAgawane&theme=tokyonight](https://streak-stats.demolab.com?user=SairajAgawane&theme=tokyonight))
 
 ---
 
