@@ -1,266 +1,373 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:ef4444&height=200&section=header&text=Sairaj%20Agawane&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20and%20AI%20-%20IoT%20and%20Automation%20-%20Cybersecurity&descAlignY=58&descSize=17&animation=fadeIn" alt="Sairaj Agawane Banner" width="100%" />
+  <img src="assets/header.svg" width="100%" alt="Sairaj Agawane Header" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/sairaj__cr7" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-sairaj____cr7-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-
+  <a href="https://github.com/SairajAgawane">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Sairaj%20Agawane%20%F0%9F%91%8B;Computer%20Science%20%26%20AI%20Student%20%40%20VIT%20Pune%20%F0%9F%8E%93;AI%20%2F%20ML%20%26%20IoT%20Intern%20%40%20Air%20Guruji%20%F0%9F%A4%96;Aspiring%20AI%20Engineer%20%26%20Cybersecurity%20Pro%20%F0%9F%9B%A1%EF%B8%8F;1st%20Rank%20DipNova-2026%20Winner%20(%E2%82%B950%2C000)%20%F0%9F%8F%86" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/sairaj__cr7" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-sairaj____cr7-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://drive.google.com/file/d/1h07jIruF1ssAuOMRpVzQmzANY3DhK8Qg/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Google%20Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://sairaj-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sairaj--six.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/sairaj-it" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sairaj--it-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SairajAgawane" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SairajAgawane-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:sairajagawane2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sairajagawane2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://x.com/_Sairaj__cr7" target="_blank">
-    <img src="https://img.shields.io/badge/X%20Twitter-_Sairaj____cr7-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter" />
-  </a>
-  <a href="https://wa.me/917276880014" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B91%207276880014-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  &nbsp;
   <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=khot3l6" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/sairaj__cr7" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:sairajagawane2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1h07jIruF1ssAuOMRpVzQmzANY3DhK8Qg/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://sairaj-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SairajAgawane" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SairajAgawane&label=Profile+Views&color=dc2626&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SairajAgawane?label=Followers&style=flat-square&color=b91c1c" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/SairajAgawane?label=Stars&style=flat-square&color=991b1b" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=SairajAgawane&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 📌 About Me
-
-I am a **Computer Science and Artificial Intelligence (CSAI)** undergraduate at **Vishwakarma Institute of Technology (VIT), Pune**, with an academic foundation grounded in a **Diploma in Information Technology**.
-
-Driven by a passion for applied intelligence and hardware-software synergy, I design and build end-to-end intelligent systems, machine learning models, and automation workflows. My work focuses on bridging theoretical algorithms with physical hardware implementations such as IoT sensor networks, embedded controllers, and industrial monitoring tools.
-
-### 🎯 Technical Interests
-- 🧠 **Artificial Intelligence & Machine Learning**: Predictive modeling, data-driven analytics, and intelligent systems.
-- 🛡️ **Cybersecurity**: Secure system design, network defense fundamentals, and robust access architectures.
-- 🌐 **Internet of Things (IoT) & Industry 4.0**: Embedded sensors, microcontrollers (ESP32/Arduino), and real-time telemetry.
-- 👁️ **Computer Vision**: Real-time image processing, object detection, and visual inspection with OpenCV.
-- 💻 **Software Development**: Modular programming, full-stack tools, algorithmic problem-solving, and clean code.
-- 🔄 **Networking and Automation**: Automated workflows, communication protocols, and system reliability.
-
-> **Career Goal**: To excel as an **AI Engineer and Cybersecurity Professional**, engineering scalable, reliable, and secure intelligent infrastructure that drives tangible value in Industry 4.0 and digital transformation.
-
-```yaml
-Name        : Sairaj Agawane
-Degree      : Bachelor of Technology (B.Tech)
-Branch      : Computer Science and Artificial Intelligence (CSAI)
-Institution : Vishwakarma Institute of Technology (VIT), Pune
-Admission   : Direct Second Year
-Foundation  : Diploma in Information Technology
-Location    : Maharashtra, India
-Current Role: AI / ML / IoT Intern at Air Guruji International
-Career Goal : AI Engineer & Cybersecurity Professional
-```
-
----
-
-## 🎓 Education
-
-| Degree / Program | Institution | Specialization / Focus |
-|---|---|---|
-| **Bachelor of Technology (B.Tech)** | **Vishwakarma Institute of Technology (VIT), Pune** | Computer Science and Artificial Intelligence (CSAI) · *Direct Second Year Admission* |
-| **Diploma in Engineering** | **MSBTE / SVPM's Institute of Technology & Engineering** | Information Technology · *Strong foundation in Programming, Networking, IoT & Web Tech* |
-
----
-
-## 🚀 Featured Project Spotlight
-
-### 1. 🏭 Intelligent Predictive Maintenance System Using AI in Industry 4.0
-> **Awarded 1st Rank (₹50,000) at DipNova-2026 & 1st Prize (₹10,000) at Technovision-2K26**
-
-An end-to-end industrial automation and health-monitoring system designed to reduce equipment downtime and enhance plant safety. The system collects continuous telemetry through sensor arrays, detects operational anomalies, and applies machine learning algorithms to predict equipment degradation prior to critical failure.
-
-- **Key Highlights**:
-  - Smartphone-controlled **ESP32 mobile robot** for navigating industrial facilities.
-  - **ESP32-CAM module** streaming real-time video feeds for remote visual inspection.
-  - **Multi-sensor network**: DHT11 for environmental temperature/humidity monitoring and IR sensors for collision avoidance.
-  - **Automated crane mechanism** and **QR code maintenance logging** with real-time telemetry on **ThingsBoard**.
-- **Tech Stack**: `Python` · `Machine Learning` · `ESP32` · `ESP32-CAM` · `IoT` · `ThingsBoard` · `OpenCV` · `Sensors`
-
----
-
-### 2. 🎙️ JARVIS AI Virtual Assistant
-An intelligent client-side voice-controlled AI assistant engineered for seamless voice interaction, hands-free query resolution, and productivity automation directly inside the browser.
-
-- **Key Highlights**:
-  - Voice recognition and command parsing via native Web Speech API.
-  - Real-time text-to-speech voice feedback and interactive web query assistance.
-  - Responsive, modern dashboard UI with zero backend latency for local execution.
-- **Tech Stack**: `JavaScript` · `HTML5` · `CSS3` · `Web Speech API` · `JSON`
-- **Links**: [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat-square&logo=vercel)](https://jarvis-o6a8w8yyd-sais-projects-3ea77644.vercel.app) [![GitHub](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/SairajAgawane)
-
----
-
-### 3. 🏢 College Maintenance System
-A robust campus maintenance and facility management application developed to centralize reporting, tracking, and resolution of institutional infrastructure issues.
-
-- **Key Highlights**:
-  - Structured role management for staff, technicians, and administrators.
-  - Ticket lifecycle tracking from issue submission to maintenance verification.
-  - Relational database schema for asset inventories and audit records.
-- **Tech Stack**: `Java` · `MySQL` · `Object-Oriented Programming (OOP)` · `Database Design`
-- **Links**: [![GitHub](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/SairajAgawane)
-
----
-
-### 4. ☀️ Automation-Based Solar System
-A smart microcontroller-driven renewable energy automation system engineered to maximize solar panel power output through automated orientation optimization and environmental feedback.
-
-- **Key Highlights**:
-  - Dynamic solar tracking algorithm responsive to light intensity differences.
-  - Real-time sensor feedback loop with automated motor drive positioning.
-  - Energy optimization routines reducing mechanical wear while increasing efficiency.
-- **Tech Stack**: `IoT` · `Microcontrollers (ESP32/Arduino)` · `Sensors` · `Embedded C / C++` · `Automation`
-- **Links**: [![GitHub](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/SairajAgawane)
-
----
-
-### 5. 📊 AI-DS Visualizer Pro
-An interactive Data Structures & Algorithms learning platform that parses natural language instructions into validated data-structure operations, visualizes step-by-step executions, and provides a multi-language program sandbox.
-
-- **Key Highlights**:
-  - Interactive visualizers for Arrays, Stacks, Queues, Linked Lists, BSTs, Heaps, and Graphs.
-  - Validated operation engine with Pydantic schemas, state snapshots, and diagnostic error handling.
-  - Authenticated multi-language code runner supporting C, C++, Java, and Python with bounded subprocess execution.
-- **Tech Stack**: `React` · `Python` · `FastAPI` · `TypeScript` · `Tailwind CSS` · `SQLite` · `Pydantic`
-- **Links**: [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat-square&logo=vercel)](https://ai-ds-visualizer-pro.vercel.app/) [![GitHub](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/SairajAgawane/AI--DS-Visualizer-Pro)
-
----
-
-## 🛠️ Skills and Technology Stack
+<h2 align="center">🔴 About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,mysql,html,css&theme=dark" alt="Programming and Web Development" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,arduino,git,github,linux,vscode&theme=dark" alt="AI, IoT and Developer Tools" />
-</p>
-
-| Domain | Technologies |
-|---|---|
-| **Programming** | `Python` · `Java` · `C` · `C++` · `JavaScript` · `SQL` |
-| **Web Development** | `HTML5` · `CSS3` · `JavaScript` · `Responsive Web Design` |
-| **AI & Data Science** | `Scikit-learn` · `TensorFlow` · `OpenCV` · `Pandas` · `Matplotlib` |
-| **IoT & Hardware** | `ESP32` · `ESP32-CAM` · `Arduino IDE` · `IoT Sensors` · `Automation` · `Industry 4.0` |
-| **Tools & Systems** | `Git` · `GitHub` · `Linux` · `VS Code` · `MySQL` · `Networking Fundamentals` |
-
----
-
-## 💼 Internship Experience
-
-### **AI / ML / IoT Intern** · **Air Guruji International**
-*Hands-on engineering and applied AI/IoT system development*
-
-- Developed and evaluated Machine Learning algorithms and data pipelines for real-world predictive models and automated workflows.
-- Designed and deployed Internet of Things (IoT) hardware architectures, integrating sensor telemetry with microcontrollers and cloud endpoints.
-- Implemented Python-based scripts for intelligent automation, data processing, and hardware-software communication.
-- Explored system security concepts and industrial automation practices aligning with digital transformation and Industry 4.0 standards.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7F1D1D?style=flat-square" alt="AI" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-991B1B?style=flat-square" alt="ML" />
-  <img src="https://img.shields.io/badge/IoT-B91C1C?style=flat-square" alt="IoT" />
-  <img src="https://img.shields.io/badge/Python-DC2626?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Automation-EF4444?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=flat-square" alt="Cybersecurity" />
-</p>
-
----
-
-## 🏆 Achievements
-
-| Award / Recognition | Event / Level | Prize / Details |
-|---|---|---|
-| 🥇 **First Prize / 1st Rank** | **DipNova-2026** | **₹50,000** Cash Prize · Awarded for the *Intelligent Predictive Maintenance System in Industry 4.0* |
-| 🥇 **Winner / First Prize** | **Technovision-2K26** | **₹10,000** Cash Prize · Recognized for technical innovation and applied engineering execution |
-| 🏆 **Best Social Impact Project Award** | **Innovation-2K25** | Awarded for engineering technology solutions addressing impactful societal challenges |
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SairajAgawane&show_icons=true&bg_color=0d1117&title_color=ef4444&icon_color=dc2626&text_color=e5e7eb&border_color=30363d&hide_border=false" width="48%" alt="Sairaj's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=SairajAgawane&theme=dark&background=0d1117&ring=ef4444&fire=dc2626&currStreakLabel=ef4444&sideLabels=e5e7eb&dates=9ca3af&border_color=30363d&hide_border=false" width="48%" alt="Sairaj's GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairajAgawane&layout=compact&bg_color=0d1117&title_color=ef4444&text_color=e5e7eb&border_color=30363d&hide_border=false" width="48%" alt="Top Languages" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
-### 🧩 LeetCode Performance
+<p align="center">
+  Hey! I'm <b>Sairaj Agawane</b>, a passionate <b>Computer Science and Artificial Intelligence student &amp; developer</b> based in Maharashtra, India.<br />
+  Currently pursuing B.Tech in CSAI at <b>Vishwakarma Institute of Technology (VIT), Pune</b> (Direct Second Year) with an academic foundation in <b>Diploma in Information Technology</b>.<br />
+  I specialize in architecting intelligent systems, training machine learning models, deploying embedded IoT hardware, and designing secure, automated Industry 4.0 solutions to solve practical real-world problems.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.Tech_CSAI_(VIT_Pune)-DC2626?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI,_ML,_IoT_%26_Cybersecurity-111111?style=flat-square" alt="Focus" />
+</p>
+
+<p align="center">
+  💬 <b>Let's Discuss:</b> Python, Machine Learning, IoT, ESP32, Java, C++, Cybersecurity, Computer Vision &amp; Automation.<br />
+  ⚡ <b>Philosophy:</b> <i>"Engineering intelligent, secure, and purposeful technology to shape a resilient future!"</i>
+</p>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🔭 Flagship Project</h4>
+  <p><a href="https://github.com/SairajAgawane" target="_blank"><b>Intelligent Predictive Maintenance</b></a><br /><sub>AI in Industry 4.0 &amp; IoT Anomaly Detection</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🌱 Active Deep Dives</h4>
+  <p><b>Computer Vision &amp; Machine Learning</b><br /><sub>Cybersecurity Fundamentals &amp; Edge IoT</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🏆 Key Achievements</h4>
+  <p><b>DipNova-2026 (1st Rank · ₹50,000)</b><br /><sub>Winner Technovision-2K26 (₹10,000)</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤝 Collaboration</h4>
+  <p><b>AI, Machine Learning &amp; IoT Systems</b><br /><sub>Open to internships &amp; impactful projects</sub></p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🎓 Education</h2>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🏛️ Bachelor of Technology (B.Tech)</h4>
+  <p><b>Vishwakarma Institute of Technology (VIT), Pune</b><br />
+  <sub>Computer Science and Artificial Intelligence (CSAI) · Direct Second Year Admission</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>📜 Diploma in Engineering</h4>
+  <p><b>MSBTE / SVPM's Institute of Technology &amp; Engineering</b><br />
+  <sub>Information Technology · Strong foundation in Programming, Networking &amp; IoT</sub></p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🔴 Featured Project Spotlight</h2>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>🏭 Intelligent Predictive Maintenance System — AI in Industry 4.0</h3>
+  <p><i>Awarded 1st Rank (₹50,000) at DipNova-2026 &amp; 1st Prize (₹10,000) at Technovision-2K26.</i></p>
+  <p>An end-to-end industrial automation and health-monitoring system designed to reduce equipment downtime and enhance plant safety. The system collects continuous telemetry through sensor arrays (DHT11, IR), detects operational anomalies, and applies machine learning algorithms to predict equipment degradation prior to critical failure. Features smartphone-controlled ESP32 robot navigation, ESP32-CAM live streaming, crane handling, and ThingsBoard IoT dashboard.</p>
+  <p><b>Technologies:</b> Python · Machine Learning · ESP32 · ESP32-CAM · IoT · ThingsBoard · OpenCV · Sensors</p>
+  <br />
+  <p>
+    <a href="https://github.com/SairajAgawane" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>📊 AI-DS Visualizer Pro</h3>
+  <p><i>Interactive Data Structures &amp; Algorithms learning workspace and execution playground.</i></p>
+  <p>Converts natural-language queries into validated operations executed by authentic Python data-structure engines, visualized through animated React components. Features an authenticated multi-language code runner supporting C, C++, Java, and Python with bounded subprocess sandbox execution and complexity diagnostics.</p>
+  <p><b>Technologies:</b> React · Python · FastAPI · TypeScript · Tailwind CSS · SQLite · Pydantic</p>
+  <br />
+  <p>
+    <a href="https://ai-ds-visualizer-pro.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/SairajAgawane/AI--DS-Visualizer-Pro" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>🎙️ JARVIS AI Virtual Assistant</h3>
+  <p><i>Client-side voice-controlled AI assistant engineered for seamless voice interaction and productivity automation.</i></p>
+  <p>Voice recognition and command parsing powered by the native Web Speech API, with real-time text-to-speech voice synthesis and interactive web query assistance through a responsive, modern dashboard interface.</p>
+  <p><b>Technologies:</b> JavaScript · HTML5 · CSS3 · Web Speech API · JSON</p>
+  <br />
+  <p>
+    <a href="https://jarvis-o6a8w8yyd-sais-projects-3ea77644.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/SairajAgawane" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>☀️ Automation-Based Solar System</h3>
+  <p><i>Smart microcontroller-driven solar tracking automation maximizing photovoltaic power output.</i></p>
+  <p>Dynamic orientation tracking algorithm responsive to differential light intensity, with real-time sensor feedback loop and automated motor drive positioning to increase solar conversion efficiency.</p>
+  <p><b>Technologies:</b> IoT · Microcontrollers (ESP32 / Arduino) · Sensors · Automation · Embedded C++</p>
+  <br />
+  <p>
+    <a href="https://github.com/SairajAgawane" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>🏢 College Maintenance System</h3>
+  <p><i>Comprehensive campus facility and maintenance workflow management application.</i></p>
+  <p>Streamlines facility requests, maintenance ticket lifecycles, and departmental asset management with structured role authentication and relational database tracking.</p>
+  <p><b>Technologies:</b> Java · MySQL · OOP · Relational Database Management</p>
+  <br />
+  <p>
+    <a href="https://github.com/SairajAgawane" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
+
+<p align="center"><i>Live real-time tracker of coding challenges &amp; algorithmic problem-solving milestones.</i></p>
 
 <p align="center">
   <a href="https://leetcode.com/u/sairaj__cr7" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/sairaj__cr7?theme=dark&font=Ubuntu" alt="LeetCode Stats - sairaj__cr7" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/sairaj__cr7?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sairaj__cr7" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/sairaj__cr7" target="_blank">
+    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Activity and Snake Animation
+<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
 
+<p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SairajAgawane/SairajAgawane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,mysql&theme=dark" width="100%" style="max-width: 420px;" alt="Core Languages" />
+  </a>
 </p>
 
-> *Note: The contribution snake graph dynamically maps real-time GitHub commit history. Third-party widget metrics are updated automatically based on provider availability.*
+<p align="center"><b>Frontend &amp; Web Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend Development" />
+  </a>
+</p>
+
+<p align="center"><b>Backend, Cloud &amp; Databases</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,git,github&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
+  </a>
+</p>
+
+<p align="center"><b>AI, Data Science, Hardware &amp; DevOps</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,arduino,linux,vscode&theme=dark" width="100%" style="max-width: 420px;" alt="AI, Hardware and Tools" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=EF4444" alt="TensorFlow" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=EF4444" alt="OpenCV" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ESP32-0a0a0a?style=for-the-badge&logo=espressif&logoColor=EF4444" alt="ESP32" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ThingsBoard-0a0a0a?style=for-the-badge&logo=iot&logoColor=EF4444" alt="ThingsBoard" />
+</p>
 
 ---
 
-## 📬 Contact and Collaboration
+<h2 align="center">💼 Internship Experience</h2>
 
-I am open to discussions regarding **AI / ML engineering**, **IoT & industrial automation**, **cybersecurity projects**, and **academic or professional opportunities**.
-
-| Channel | Link / Handle |
-|---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/sairaj-it](https://www.linkedin.com/in/sairaj-it) |
-| 💻 **GitHub** | [github.com/SairajAgawane](https://github.com/SairajAgawane) |
-| 🧩 **LeetCode** | [leetcode.com/u/sairaj__cr7](https://leetcode.com/u/sairaj__cr7) |
-| 🌐 **Portfolio** | [sairaj-six.vercel.app](https://sairaj-six.vercel.app/) |
-| 📄 **Resume** | [Google Drive View](https://drive.google.com/file/d/1h07jIruF1ssAuOMRpVzQmzANY3DhK8Qg/view?usp=drivesdk) |
-| 📧 **Email** | [sairajagawane2007@gmail.com](mailto:sairajagawane2007@gmail.com) |
-| 💬 **WhatsApp** | [+91 7276880014](https://wa.me/917276880014) |
-| 🐦 **X (Twitter)** | [@_Sairaj__cr7](https://x.com/_Sairaj__cr7) |
-| 📷 **Instagram** | [@sairaj_cr7](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=khot3l6) |
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 20px;">
+  <h3>🏢 Air Guruji International</h3>
+  <p><b>Role: AI / ML / IoT Intern</b></p>
+  <p>Gaining hands-on engineering experience in Artificial Intelligence, Machine Learning, Internet of Things, Python development, and automation technologies — building real-world AI-powered solutions, sensor telemetry pipelines, and Industry 4.0 projects.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Artificial%20Intelligence-7F1D1D?style=flat-square" alt="AI" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Machine%20Learning-991B1B?style=flat-square" alt="ML" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/IoT-B91C1C?style=flat-square" alt="IoT" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Python-DC2626?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=flat-square" alt="Cybersecurity" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Automation-EF4444?style=flat-square" alt="Automation" />
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
+<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
+
 <p align="center">
-  <em>"Engineering intelligent, secure, and purposeful technology to shape a resilient future."</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=SairajAgawane&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairajAgawane&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:ef4444&height=120&section=footer" alt="Footer Banner" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=SairajAgawane&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
 </p>
 
-Name        : Sairaj Agawane
-Degree      : Bachelor of Technology (B.Tech)
-Branch      : Computer Science and Artificial Intelligence (CSAI)
-Institution : Vishwakarma Institute of Technology (VIT), Pune
-Admission   : Direct Second Year
-Foundation  : Diploma in Information Technology
-Location    : Maharashtra, India
-Current Role: AI / ML / IoT Intern at Air Guruji International
-Career Goal : AI Engineer & Cybersecurity Professional
+<p align="center">
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+</p>
+
+---
+
+<h2 align="center">⚡ Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SairajAgawane/SairajAgawane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether you want to discuss AI engineering, IoT systems, cybersecurity, or explore opportunities — my inbox is always open!</i></p>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="200" style="padding: 16px;">
+  <a href="https://www.linkedin.com/in/sairaj-it" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  <br />
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="200" style="padding: 16px;">
+  <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=khot3l6" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Instagram-Connect-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  <br />
+  <sub><b>Social Profile</b></sub>
+</td>
+<td align="center" width="200" style="padding: 16px;">
+  <a href="mailto:sairajagawane2007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  <br />
+  <sub><b>Direct Collaboration</b></sub>
+</td>
+<td align="center" width="200" style="padding: 16px;">
+  <a href="https://wa.me/917276880014" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="60" height="60" alt="WhatsApp" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-DC2626?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp" />
+  </a>
+  <br />
+  <sub><b>Instant Messaging</b></sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
