@@ -318,7 +318,7 @@
 <h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SairajAgawane/SairajAgawane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
 ---
@@ -358,7 +358,7 @@
 </td>
 <td align="center" width="200" style="padding: 16px;">
   <a href="https://wa.me/917276880014" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" width="60" height="60" alt="WhatsApp" />
+    <img src="assets/whatsapp.svg" width="60" height="60" alt="WhatsApp" />
     <br /><br />
     <img src="https://img.shields.io/badge/WhatsApp-Chat-DC2626?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp" />
   </a>
