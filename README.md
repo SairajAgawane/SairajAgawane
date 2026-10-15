@@ -5,9 +5,7 @@
 <p align="center">
   <a href="https://leetcode.com/u/sairaj__cr7" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-sairaj____cr7-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:ef4444&height=200&section=header&text=Sairaj%20Agawane&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20and%20AI%20-%20IoT%20and%20Automation%20-%20Cybersecurity&descAlignY=58&descSize=17&animation=fadeIn" alt="Sairaj Agawane Banner" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="https://leetcode.com/u/sairaj__cr7" target="_blank">
