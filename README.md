@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=750&lines=B.Tech+CSAI+%40+VIT+Pune;AI+%2F+ML+%26+IoT+Intern+%40+Air+Guruji+International;Aspiring+AI+Engineer+%26+Cybersecurity+Professional;1st+Rank+DipNova-2026+Winner;Innovator+in+AI%2C+IoT+%26+Industry+4.0" alt="Typing Introduction" />
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/sairaj__cr7" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-sairaj____cr7-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 <p align="center">
