@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:ef4444&height=220&section=header&text=Sairaj%20Agawane&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20AI%20%E2%80%A2%20IoT%20%26%20Automation%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" alt="Sairaj Agawane Banner" width="100%" />
+  <img src="assets/header.svg" alt="Sairaj Agawane Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=750&lines=B.Tech+CSAI+%40+VIT+Pune;AI+%2F+ML+%26+IoT+Intern+%40+Air+Guruji+International;Aspiring+AI+Engineer+%26+Cybersecurity+Professional;1st+Rank+DipNova-2026+(%E2%82%B950%2C000)+Winner;Innovator+in+AI%2C+IoT+%26+Industry+4.0" alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=750&lines=B.Tech+CSAI+%40+VIT+Pune;AI+%2F+ML+%26+IoT+Intern+%40+Air+Guruji+International;Aspiring+AI+Engineer+%26+Cybersecurity+Professional;1st+Rank+DipNova-2026+Winner;Innovator+in+AI%2C+IoT+%26+Industry+4.0" alt="Typing Introduction" />
 </p>
 
 <p align="center">
@@ -251,5 +251,5 @@ I am open to discussions regarding **AI / ML engineering**, **IoT & industrial a
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:ef4444&height=120&section=footer" alt="Footer Banner" width="100%" />
+  <img src="assets/footer.svg" alt="Footer Banner" width="100%" />
 </p>
