@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Sairaj Agawane Header" />
 </p>
-
 <p align="center">
   <a href="https://github.com/SairajAgawane">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Sairaj%20Agawane%20%F0%9F%91%8B;Computer%20Science%20%26%20AI%20Student%20%40%20VIT%20Pune%20%F0%9F%8E%93;AI%20%2F%20ML%20%26%20IoT%20Intern%20%40%20Air%20Guruji%20%F0%9F%A4%96;Aspiring%20AI%20Engineer%20%26%20Cybersecurity%20Pro%20%F0%9F%9B%A1%EF%B8%8F;1st%20Rank%20DipNova-2026%20Winner%20(%E2%82%B950%2C000)%20%F0%9F%8F%86" width="100%" style="max-width: 620px;" alt="Typing SVG" />
